@@ -1,3 +1,6 @@
+<img src="images\MGL-Logo.jpg" align="right" />
+
+
 # MGL-Ventures
 A Website where you can get your solar panels and inverters
 
